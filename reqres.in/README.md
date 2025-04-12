@@ -1,0 +1,1 @@
+This folder contains postman collection for the website https://reqres.in/
